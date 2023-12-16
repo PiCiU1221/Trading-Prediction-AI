@@ -1,2 +1,2 @@
 # TradingPredictionBot
-Python Bitcoin price prediction AI
+The results are pretty mediocre, but it was still a fun experience
